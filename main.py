@@ -13,4 +13,4 @@ if __name__ == "__main__":
     try:
         asyncio.run(start())
     except KeyboardInterrupt:
-        logging.info("Shutting down.")
+        logging.info("Shutting down.s")
